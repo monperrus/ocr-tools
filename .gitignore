@@ -1,0 +1,6 @@
+*.o
+munge
+unmunge
+repair
+core
+*.core
